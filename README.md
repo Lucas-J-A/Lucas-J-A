@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">Tecnologias que uso no dia a dia :</p>
+<p align="center">Melhores Tecnologias <#</p>
 
 ###
 
@@ -57,11 +57,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-J-A&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lucas-J-A&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img height="200" src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif"  />
 </div>
 
 ###
