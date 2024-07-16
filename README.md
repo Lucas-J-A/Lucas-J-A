@@ -71,7 +71,9 @@
   <a href="https://www.linkedin.com/in/lucas-araujo-link/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://criarmeulink.com.br/u/1721158597" target="_blank">
+    <a href="mailto: lu.mktcompany@gmail.com">
+      <img width="30" src="/LuigiGf/LuigiGf/raw/main/gmail.svg" style="max-width: 100%;">
+    </a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/lucas_josez" target="_blank">
