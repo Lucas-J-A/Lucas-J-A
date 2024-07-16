@@ -9,10 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lucas-J-A/Lucas-J-A/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">Tecnologias que uso no dia a dia :</p>
 
 ###
